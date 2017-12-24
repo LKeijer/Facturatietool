@@ -23,6 +23,8 @@ namespace Facturatie_tool
         public MainWindow()
         {
             InitializeComponent();
+            Particulier p1 = new Particulier();
+            
         }
     }
 }
